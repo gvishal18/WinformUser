@@ -154,20 +154,20 @@
             this.cbxModify.AutoSize = true;
             this.cbxModify.Location = new System.Drawing.Point(176, 176);
             this.cbxModify.Name = "cbxModify";
-            this.cbxModify.Size = new System.Drawing.Size(63, 18);
+            this.cbxModify.Size = new System.Drawing.Size(95, 18);
             this.cbxModify.TabIndex = 13;
-            this.cbxModify.Text = "Modify";
+            this.cbxModify.Text = "Can Modify ?";
             this.cbxModify.UseVisualStyleBackColor = true;
             this.cbxModify.Visible = false;
             // 
             // cbxDelete
             // 
             this.cbxDelete.AutoSize = true;
-            this.cbxDelete.Location = new System.Drawing.Point(245, 176);
+            this.cbxDelete.Location = new System.Drawing.Point(277, 176);
             this.cbxDelete.Name = "cbxDelete";
-            this.cbxDelete.Size = new System.Drawing.Size(63, 18);
+            this.cbxDelete.Size = new System.Drawing.Size(135, 18);
             this.cbxDelete.TabIndex = 13;
-            this.cbxDelete.Text = "Delete";
+            this.cbxDelete.Text = "Can Change Status ?";
             this.cbxDelete.UseVisualStyleBackColor = true;
             this.cbxDelete.Visible = false;
             // 
